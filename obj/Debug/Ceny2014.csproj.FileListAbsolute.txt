@@ -1,0 +1,30 @@
+d:\Projects\Ceny2014\Ceny2014\Ceny2014\bin\Debug\Ceny2014.exe.config
+d:\Projects\Ceny2014\Ceny2014\Ceny2014\bin\Debug\Ceny2014.exe
+d:\Projects\Ceny2014\Ceny2014\Ceny2014\bin\Debug\Ceny2014.pdb
+d:\Projects\Ceny2014\Ceny2014\Ceny2014\obj\Debug\Ceny2014.csprojResolveAssemblyReference.cache
+d:\Projects\Ceny2014\Ceny2014\Ceny2014\obj\Debug\Ceny2014.exe
+d:\Projects\Ceny2014\Ceny2014\Ceny2014\obj\Debug\Ceny2014.pdb
+C:\Users\Evgeny\Dropbox\Projects\Ceny2014\Ceny2014\Ceny2014\bin\Debug\Ceny2014.exe.config
+C:\Users\Evgeny\Dropbox\Projects\Ceny2014\Ceny2014\Ceny2014\obj\Debug\Ceny2014.exe
+C:\Users\Evgeny\Dropbox\Projects\Ceny2014\Ceny2014\Ceny2014\obj\Debug\Ceny2014.pdb
+C:\Users\Evgeny\Dropbox\Projects\Ceny2014\Ceny2014\Ceny2014\bin\Debug\Ceny2014.exe
+C:\Users\Evgeny\Dropbox\Projects\Ceny2014\Ceny2014\Ceny2014\bin\Debug\Ceny2014.pdb
+C:\Users\Evgeny\Dropbox\Projects\Ceny2014\Ceny2014\Ceny2014\obj\Debug\Ceny2014.csprojResolveAssemblyReference.cache
+C:\Users\rianon\Dropbox\Общие документы\Комитет по ценам и тарифам\2015\Ceny2014\Ceny2014\bin\Debug\Ceny2014.exe.config
+C:\Users\rianon\Dropbox\Общие документы\Комитет по ценам и тарифам\2015\Ceny2014\Ceny2014\obj\Debug\Ceny2014.exe
+C:\Users\rianon\Dropbox\Общие документы\Комитет по ценам и тарифам\2015\Ceny2014\Ceny2014\obj\Debug\Ceny2014.pdb
+C:\Users\rianon\Dropbox\Общие документы\Комитет по ценам и тарифам\2015\Ceny2014\Ceny2014\bin\Debug\Ceny2014.exe
+C:\Users\rianon\Dropbox\Общие документы\Комитет по ценам и тарифам\2015\Ceny2014\Ceny2014\bin\Debug\Ceny2014.pdb
+C:\Users\rianon\Dropbox\Общие документы\Комитет по ценам и тарифам\2015\Ceny2014\Ceny2014\obj\Debug\Ceny2014.csprojResolveAssemblyReference.cache
+C:\Users\Evgeny\Dropbox\Общие документы\Комитет по ценам и тарифам\2015\Ceny2014\Ceny2014\bin\Debug\Ceny2014.exe.config
+C:\Users\Evgeny\Dropbox\Общие документы\Комитет по ценам и тарифам\2015\Ceny2014\Ceny2014\obj\Debug\Ceny2014.exe
+C:\Users\Evgeny\Dropbox\Общие документы\Комитет по ценам и тарифам\2015\Ceny2014\Ceny2014\obj\Debug\Ceny2014.pdb
+C:\Users\Evgeny\Dropbox\Общие документы\Комитет по ценам и тарифам\2015\Ceny2014\Ceny2014\bin\Debug\Ceny2014.exe
+C:\Users\Evgeny\Dropbox\Общие документы\Комитет по ценам и тарифам\2015\Ceny2014\Ceny2014\bin\Debug\Ceny2014.pdb
+C:\Users\Evgeny\Dropbox\Общие документы\Комитет по ценам и тарифам\2015\Ceny2014\Ceny2014\obj\Debug\Ceny2014.csprojResolveAssemblyReference.cache
+V:\eFarma\КомитетПоЦенам\Ceny2014\Ceny2014\bin\Debug\Ceny2014.exe.config
+V:\eFarma\КомитетПоЦенам\Ceny2014\Ceny2014\bin\Debug\Ceny2014.exe
+V:\eFarma\КомитетПоЦенам\Ceny2014\Ceny2014\bin\Debug\Ceny2014.pdb
+V:\eFarma\КомитетПоЦенам\Ceny2014\Ceny2014\obj\Debug\Ceny2014.csprojResolveAssemblyReference.cache
+V:\eFarma\КомитетПоЦенам\Ceny2014\Ceny2014\obj\Debug\Ceny2014.exe
+V:\eFarma\КомитетПоЦенам\Ceny2014\Ceny2014\obj\Debug\Ceny2014.pdb
